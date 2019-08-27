@@ -1,5 +1,7 @@
 title: Gagamboy
 description: Health and Fitness Notes
 author: Papa Jedder
-paginate: 5
+paginate: 3
+url: https://papajedder.github.io
 baseurl: /gagamboy
+repository : papajedder/gagamboy
