@@ -1,5 +1,5 @@
 ---
-layout: 
+layout: post
 title: Mark Twight
 tags: ["fitness test"]
 ---
