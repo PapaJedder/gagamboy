@@ -10,7 +10,7 @@ tags: ["fitness test"]
 
 # The 300 Test (Fitness Test)
 Developed as a rite of passage.   
-* 25 pull-ups
+* 25 pull-ups <!--more-->
 * 50 deadlifts at 135 pounds
 * 50 push-ups
 * 50 box jumps with a 24-inch box
