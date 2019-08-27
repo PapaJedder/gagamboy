@@ -5,3 +5,5 @@ paginate: 3
 url: https://papajedder.github.io
 baseurl: /gagamboy
 repository : papajedder/gagamboy
+
+excerpt_separator: <!--more-->
